@@ -27,7 +27,7 @@ Minggu Ke- | Kegiatan |
 --- | --- |
 1 | Tahap Analisis dan Desain |
 2 | Tahap Pengembangan |
-3 | Tahap Pengembangant |
+3 | Tahap Pengembangan |
 4 | Tahap Pengembangan dan Pengujian |
 5 | Tahap Pengujian dan Deployment |
 6 | Pembuatan Dokumentasi |
