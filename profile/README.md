@@ -40,7 +40,7 @@ Penjadwalan pembangunan proyek ini disajikan dalam bentuk Gantt Chart .
 ## Project Resources: 
 ### - Stack Technologies: 
 - Bahasa Pemrograman : JavaScript dan TypeScript
-- Kerangka Kerja     : React.js + TailwindCSS (Front-End), AdonisJS (Back-End)
+- Kerangka Kerja     : ReactJS dan AdonisJS
 - Basis Data         : MySQL
 - Server			 : Vercel, Heroku
 - Repository		 : Github
